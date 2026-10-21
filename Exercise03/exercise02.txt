@@ -1,0 +1,2 @@
+The program was run on host ip-10-0-1-13.ec2.internal.
+It reported 2 logical CPUs, matching the vCPU count of the EC2 instance type used (t2.small).

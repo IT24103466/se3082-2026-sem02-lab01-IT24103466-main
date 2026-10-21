@@ -1,0 +1,2 @@
+Hello from thread 0 out of 2 threads!
+Hello from thread 1 out of 2 threads!
